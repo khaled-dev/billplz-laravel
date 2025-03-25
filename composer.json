@@ -22,7 +22,7 @@
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
-        "illuminate/support": "^10.0 || ^11.0",
+        "illuminate/support": "^10.0 || ^11.0 || ^12.0",
         "jomweb/billplz": "^5.2",
         "php-http/guzzle7-adapter": "^1.0"
     },
@@ -30,8 +30,8 @@
         "larastan/larastan": "^2.0",
         "nunomaduro/collision": "^7.5 || ^8.0",
         "orchestra/pest-plugin-testbench": "^2.0",
-        "orchestra/testbench": "^8.22 || ^9.0",
-        "phpunit/phpunit": "^10.5"
+        "orchestra/testbench": "^8.22 || ^9.0 || ^10.0",
+        "phpunit/phpunit": "^10.5 || ^11.5.3"
     },
     "config": {
         "sort-packages": true,
